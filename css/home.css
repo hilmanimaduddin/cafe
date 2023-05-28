@@ -1,0 +1,46 @@
+.bodi {
+  background-image: url("background.jpeg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 1000px;
+}
+
+.bodi .text {
+  padding: 50px;
+  color: white;
+  font-size: 50px;
+}
+
+.bodi .text p {
+  padding-top: 10px;
+}
+
+.icon {
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .bodi .text {
+    font-size: 35px;
+    padding: 30px;
+    padding-top: 60px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .bodi .text {
+    font-size: 30px;
+    padding: 30px;
+    padding-top: 60px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .bodi .text {
+    font-size: 25px;
+    padding: 20px;
+    padding-top: 50px;
+  }
+}
