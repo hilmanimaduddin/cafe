@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 600px) {
   .bodi {
-    height: 700px;
+    height: 900px;
   }
   .bodi .text {
     font-size: 35px;
@@ -34,7 +34,7 @@
 
 @media screen and (max-width: 500px) {
   .bodi {
-    height: 600px;
+    height: 850px;
   }
   .bodi .text {
     font-size: 30px;
@@ -45,7 +45,7 @@
 
 @media screen and (max-width: 400px) {
   .bodi {
-    height: 500px;
+    height: 800px;
   }
   .bodi .text {
     font-size: 25px;
