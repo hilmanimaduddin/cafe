@@ -27,7 +27,7 @@ nav .nav-left ul li a {
 
 nav .nav-right .kontak {
   color: white;
-  background-color: orangered;
+  background-color: rgb(33, 33, 33);
   padding: 10px 15px;
   border-radius: 10px;
 }
